@@ -1,0 +1,8 @@
+dev_*
+__pycache__
+tmp.ipynb
+*.gif
+.ipynb_checkpoints
+data
+.DS_Store
+*.ipynb
